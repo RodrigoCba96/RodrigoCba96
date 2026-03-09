@@ -25,10 +25,10 @@
       <h3 align="center">🗺️ Viajero — Planificador de Viajes</h3>
       <div align="center">
         <p>
-          <a href="https://github.com/RodrigoCba96/viajero-frontend" target="_blank">
+          <a href="https://github.com/EVVO-PS/viajero-frontend" target="_blank">
             <img src="https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge&logo=angular&logoColor=white">
           </a>
-          <a href="https://github.com/RodrigoCba96/viajero-backend" target="_blank">
+          <a href="https://github.com/EVVO-PS/viajero-backend" target="_blank">
             <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
           </a>
         </p>
@@ -39,10 +39,10 @@
       <h3 align="center">🏢 Management — Gestión de Personal y Alumnos</h3>
       <div align="center">
         <p>
-          <a href="https://github.com/orgs/EVVO-PS/repositories" target="_blank">
+          <a href="https://github.com/EVVO-PS/management-frontend" target="_blank">
             <img src="https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge&logo=angular&logoColor=white">
           </a>
-          <a href="https://github.com/orgs/EVVO-PS/repositories" target="_blank">
+          <a href="https://github.com/EVVO-PS/management-backend" target="_blank">
             <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
           </a>
         </p>
