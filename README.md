@@ -10,7 +10,7 @@
 - 💼 Frontend Developer con **+3 años de experiencia** en Angular y TypeScript
 - 🏥 Trabajo en proyectos de **salud digital** para el Ministerio de Salud de La Rioja
 - ⚡ Me especializo en arquitecturas de componentes reutilizables, performance y CI/CD
-- 🐍 También desarrollo en el backend con **Python (FastAPI)** y Java (Spring Boot)
+- 🐍 También desarrollo en el backend con **Python (FastAPI)** y tengo conocimientos en Java (Spring Boot)
 - 📱 Desarrollo apps móviles con **React Native + Expo**
 - 🎓 Estudiando Tecnicatura en Desarrollo Web en UNDEC
 - 🌍 Abierto a oportunidades remotas en empresas de producto
