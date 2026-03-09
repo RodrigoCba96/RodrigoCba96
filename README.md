@@ -39,10 +39,10 @@
       <h3 align="center">🏢 Management — Gestión de Personal y Alumnos</h3>
       <div align="center">
         <p>
-          <a href="https://github.com/RodrigoCba96/management-frontend" target="_blank">
+          <a href="https://github.com/orgs/EVVO-PS/repositories" target="_blank">
             <img src="https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge&logo=angular&logoColor=white">
           </a>
-          <a href="https://github.com/RodrigoCba96/management-backend" target="_blank">
+          <a href="https://github.com/orgs/EVVO-PS/repositories" target="_blank">
             <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
           </a>
         </p>
